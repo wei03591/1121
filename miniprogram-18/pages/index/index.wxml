@@ -1,0 +1,4 @@
+<view style = 'text-align:center'>
+  <image src = '/images/yejing.png'  mode='aspectFill' ></image>
+  <image src = '/images/yejing2.png'  mode='aspectFill' ></image>
+</view>

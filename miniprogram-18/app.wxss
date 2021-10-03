@@ -1,0 +1,7 @@
+/**app.wxss**/
+.text{
+  flex-direction:row;
+  display:flex;
+  font-size:20px;
+  color:black;
+}
